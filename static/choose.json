@@ -1,0 +1,158 @@
+{
+    "chooses":[
+        {
+            "id":"1",
+            "ImageOne":"/static/carimg/01 (1).jpg",
+            "name":"布加迪",
+            "nametwo":"布加迪>2018款 4.0T 四驱至尊版 7座",
+            "Price":"1231.5"
+        },
+        {
+           "id":"2",
+           "ImageOne":"/static/carimg/01 (2).jpg",
+           "nametwo":"奥迪",
+           "name":"奥迪>2018款 2.5T 四驱至尊版 4座",
+           "Price":"35.5"
+        },
+        {
+           "id":"3",
+           "ImageOne":"/static/carimg/01 (3).jpg",
+           "name":"广汽传祺",
+           "nametwo":"传祺>2018款 2.0T 四驱至尊版 5座",
+           "Price":"15.8"
+        },
+        {
+            "id":"4",
+            "ImageOne":"/static/carimg/01 (4).jpg",
+            "name":"奥迪1",
+            "nametwo":"奥迪1>2018款 2.5T 四驱豪华版 4座",
+            "Price":"70.5"
+        }
+        ,
+        {
+            "id":"5",
+            "ImageOne":"/static/carimg/01 (5).jpg",
+            "name":"保时捷",
+            "nametwo":"保时捷>2018款 3.5T 四驱豪华版 4座",
+            "Price":"300.9"
+        }
+        ,
+        {
+            "id":"6",
+            "ImageOne":"/static/carimg/01 (6).jpg",
+            "name":"领克",
+            "nametwo":"领克>2018款 3.5T 四驱豪华版 4座",
+            "Price":"23.8"
+        }
+        ,
+        {
+            "id":"7",
+            "ImageOne":"/static/carimg/01 (7).jpg",
+            "name":"哈弗",
+            "nametwo":"哈弗>2018款 3.5T 四驱豪华版 4座",
+            "Price":"18.5"
+        }
+        ,
+        {
+            "id":"8",
+            "ImageOne":"/static/carimg/01 (8).jpg",
+            "name":"卡宴",
+            "nametwo":"卡宴>2018款 3.5T 四驱豪华版 4座",
+            "Price":"220.9"
+        }
+        ,
+        {
+            "id":"9",
+            "ImageOne":"/static/carimg/01 (9).jpg",
+            "name":"豪车",
+            "nametwo":"豪车>2018款 3.5T 四驱豪华版 4座",
+            "Price":"150.9"
+        }
+        ,
+        {
+            "id":"10",
+            "ImageOne":"/static/carimg/01 (10).jpg",
+            "name":"宝骏",
+            "nametwo":"宝骏>2018款 3.5T 四驱豪华版 4座",
+            "Price":"12.8"
+        }
+        ,
+        {
+            "id":"11",
+            "ImageOne":"/static/carimg/01 (11).jpg",
+            "name":"别克",
+            "nametwo":"别克>2018款 3.5T 四驱豪华版 4座",
+            "Price":"16.5"
+        }
+        ,
+        {
+            "id":"12",
+            "ImageOne":"/static/carimg/01 (12).jpg",
+            "name":"小鹏汽车",
+            "nametwo":"小鹏汽车>2018款 3.5T 四驱豪华版 4座",
+            "Price":"60.5"
+        }
+
+        
+    ],
+
+    "motos":[
+        {
+            "id":"4",
+            "ImageOne":"/static/carimg/01 (4).jpg",
+            "name":"奥迪1",
+            "nametwo":"奥迪1>2018款 2.5T 四驱豪华版 4座",
+            "Price":"70.5"
+        },
+        {
+            "id":"7",
+            "ImageOne":"/static/carimg/01 (7).jpg",
+            "name":"哈弗",
+            "nametwo":"哈弗>2018款 3.5T 四驱豪华版 4座",
+            "Price":"18.5"
+        }
+    ],
+
+    "MotoZs":[
+         {
+            "id":"5",
+            "ImageOne":"/static/carimg/01 (5).jpg",
+            "name":"保时捷",
+            "nametwo":"保时捷>2018款 3.5T 四驱豪华版 4座",
+            "Price":"300.9"
+        },
+       {
+            "id":"1",
+            "ImageOne":"/static/carimg/01 (1).jpg",
+            "name":"布加迪",
+            "nametwo":"布加迪>2018款 4.0T 四驱至尊版 7座",
+            "Price":"1231.5"
+        }
+    ],
+
+    
+    "z2s":[
+        {
+            "id":"12",
+            "ImageOne":"/static/carimg/01 (12).jpg",
+            "name":"小鹏汽车",
+            "nametwo":"小鹏汽车>2018款 3.5T 四驱豪华版 4座",
+            "Price":"60.5"
+        }
+        ,
+       {
+           "id":"3",
+           "ImageOne":"/static/carimg/01 (3).jpg",
+           "name":"广汽传祺",
+           "nametwo":"传祺>2018款 2.0T 四驱至尊版 5座",
+           "Price":"15.8"
+        },
+         {
+            "id":"10",
+            "ImageOne":"/static/carimg/01 (10).jpg",
+            "name":"宝骏",
+            "nametwo":"宝骏>2018款 3.5T 四驱豪华版 4座",
+            "Price":"12.8"
+        }
+    ]
+ }
